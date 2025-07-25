@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+pika
+python-dotenv
+apscheduler
+pydantic
+python-multipart
+pandas
+pytest
+httpx
+requests
+ 

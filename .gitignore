@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Test cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Reports and data
+app/reports/
+
+# Environment files
+.env
+
+# Docker volumes
+pgdata/
+
+# Alembic
+app/alembic/versions/__pycache__/
+
+# VSCode and editor files
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.tmp 

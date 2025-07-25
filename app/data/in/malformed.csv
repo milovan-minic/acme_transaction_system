@@ -1,0 +1,2 @@
+transaction_id,sender_id,amount,currency,timestamp,status
+bad_tx1,user1,notanumber,USD,2025-05-01T12:00:00Z,completed
