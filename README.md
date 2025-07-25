@@ -63,7 +63,7 @@ This script will:
 
 ### 2. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone git@github.com:milovan-minic/acme_transaction_system.git
 cd acme_project/transactions
 ```
 
